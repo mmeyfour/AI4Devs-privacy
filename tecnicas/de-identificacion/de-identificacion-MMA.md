@@ -50,6 +50,10 @@ El número de seguridad social de <NOMBRE> es <NUM_SEGURIDAD_SOCIAL>
 
 ## Diagrama
 
+![Diagrama de de-identificación de datos](../../assets/de-identificacion-mma.png)
+
+> *Imagen generada con IA mediante DALL·E (OpenAI)*
+
 ### Descripción del diagrama
 
 1. Datos Originales (Entrada): Muestra un conjunto de datos que contenga información personal identificable (PII), como nombres, direcciones, números de teléfono, etc.
@@ -65,10 +69,6 @@ El número de seguridad social de <NOMBRE> es <NUM_SEGURIDAD_SOCIAL>
 ```
 
 Este diagrama ayudará a visualizar cómo la de-identificación protege la privacidad de los individuos al eliminar o transformar la información personal en los conjuntos de datos utilizados para entrenar modelos de lenguaje.
-
-![Diagrama de de-identificación de datos](../../assets/de-identificacion-mma.png)
-
-> *Imagen generada con IA mediante DALL·E (OpenAI)*
 
 ## Referencias
 
